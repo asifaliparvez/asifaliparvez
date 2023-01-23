@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Carrier Guidance, Startups.**
 
-- 💬 Ask me about **Building Apps, Philosophy, Startups.**
+- 💬 Ask me about **Building Apps, Fitness, Startups.**
 
 - 📫 How to reach me **asifaliparvezasif@gmail.com**
 
