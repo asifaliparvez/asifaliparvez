@@ -1,17 +1,17 @@
 <h1 align="center">Hello 👋, I'm Asif Ali Parvez</h1>
-<h3 align="center">A self taught and passionate Android Developer from West Bengal, India.</h3>
+<h3 align="center">A self taught and passionate Android Developer based on Ludhaina , India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifaliparvez&label=Profile%20views&color=0e75b6&style=flat" alt="asifaliparvez" /> </p>
 
-- 🔭 I’m currently working on **Jim App: It's app that help you to track your gym progress easily and in simple manner.**
+- 🔭 I’m currently working on **Jim App: It's app that help you to track your gym workouts easily and in a simple manner.**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms, Android Development.**
 
 - 👯 I’m looking to collaborate on **Android Projects.**
 
-- 🤝 I’m looking for help with **Carrier Guidance, Startups.**
+- 🤝 I’m looking for help with **Carrier Guidance, UI and Design, Coding.**
 
-- 💬 Ask me about **Building Apps, Fitness, Startups.**
+- 💬 Ask me about **Building Apps, Fitness, coding and once in while about chess because i am not good at it:).**
 
 - 📫 How to reach me **asifaliparvezasif@gmail.com**
 
