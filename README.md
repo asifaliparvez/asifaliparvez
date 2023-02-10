@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Asif Ali Parvez</h1>
-<h3 align="center">A self taught and passionate Android Developer based in Ludhaina , India.</h3>
+<h3 align="center">A passionate Android Developer based in Ludhaina , India. love to learn about new things related to coding and UI and UX. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifaliparvez&label=Profile%20views&color=0e75b6&style=flat" alt="asifaliparvez" /> </p>
 
